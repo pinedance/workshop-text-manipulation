@@ -1,0 +1,6 @@
+example01.txt	360
+example01RST.txt	360
+example02-1RST.txt	202
+example02RST-1.txt	0
+example02RST-2.txt	105
+example03.txt	155498
